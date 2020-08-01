@@ -30,7 +30,9 @@ Let us not forgot that Stock market prices are highly unpredictable and volatile
 <br>
   
 * train.csv  - the training set with the Data of the stock flux, and the price for Open/High/Low/Close and the volume.
+
 </details>
+
 ## Technologies Used:
 <details>
 <a name="Technologies_Used"></a>
