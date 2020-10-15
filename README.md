@@ -12,6 +12,8 @@ Most of them perform welll but I remain realistic, it's also posibble that they 
 
 Let us not forgot that Stock market prices are highly unpredictable and volatile. This means that there are no consistent patterns in the data that allow you to model stock prices over time near-perfectly.
 
+I also added a script to visualise the stock variable in Dash dynamically.
+
 ## Table of Contents
 <details open>
 <summary>Show/Hide</summary>
@@ -49,6 +51,7 @@ Let us not forgot that Stock market prices are highly unpredictable and volatile
 * <strong>Scikit-Learn</strong>
 * <strong>Keras</strong>
 * <strong>Tensorflow</strong>
+* <strong>Dash</strong>
 </details>
 
 ## Structure of Notebooks:
